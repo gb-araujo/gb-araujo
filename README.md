@@ -28,6 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45" />
 </p>
 <!-- Profile stats --> 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gb-araujo&show_icons=true&locale=en&" alt="gb-araujo" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-araujo&show_icons=true&locale=en&layout=compact&" alt="gb-araujo" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gb-araujo&show_icons=true&locale=en&" alt="gb-araujo" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gb-araujo&show_icons=true&locale=en&layout=compact&" alt="gb-araujo" /></p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21A5FF&height=120&section=footer"/>
