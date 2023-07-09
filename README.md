@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=21A5FF&height=120&section=header"/>
   <h1>Olá, seja bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
   <h4>Olá! Sou Gabriel</h4>
-  <h4>AAtualmente, estou me dedicando aos estudos de Desenvolvimento Web e estou dando meus primeiros passos no mundo do Desenvolvimento Mobile.</h4>
+  <h4>Atualmente, estou me dedicando aos estudos de Desenvolvimento Web e estou dando meus primeiros passos no mundo do Desenvolvimento Mobile.</h4>
   
   <p> <img src="https://komarev.com/ghpvc/?username=gb-araujo&label=Visualizações+de+perfil&color=0e75b6&style=flat" alt="gb-araujo" /> </p>
   
