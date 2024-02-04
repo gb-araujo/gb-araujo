@@ -2,7 +2,7 @@
 <h1 align="center"><b>Seja bem-vindo, me chamo Gabriel </b></h1>
 <h3>👨‍💻 Sobre-mim </h3>
 
-- Full Stack Web & Mobile App
+- Desenvolvedor Full Stack Web & Mobile
 - Atualmente aprendendo Flutter e Kotlin
 - Atualmente atuando como Analista de Suporte e buscando oportunidades como desenvolvedor.
 - Website: [Portfolio](https://gabrielaraujo.tech/)
