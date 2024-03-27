@@ -3,7 +3,8 @@
 <h3>👨‍💻 Sobre-mim </h3>
 
 - Desenvolvedor Full Stack Web & Mobile
-- Atualmente aprendendo Flutter e Kotlin
+- Atualmente aprendendo Flutter e Spring Boot
+- Trabalhando no projeto: Comunicaetec
 - Atualmente atuando como Analista de Suporte e buscando oportunidades como desenvolvedor.
 - Website: [Portfolio](https://gabrielaraujo.tech/)
 <br>
