@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center"><b>Seja bem-vindo</b></h1>
-<h3>👨‍💻 Sobre-mim </h3>
+<h2>👨‍💻 Sobre-mim </h3>
+
 - Sou o Gabriel, tenho 21 anos e resido em São Paulo
 - Desenvolvedor Full Stack Web & Mobile
 - Atualmente aprendendo Spring Boot com Java/Kotlin e desenvolvimento mobile com Flutter
