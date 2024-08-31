@@ -4,8 +4,7 @@
 
 - Sou o Gabriel, tenho 21 anos e resido em São Paulo
 - Desenvolvedor Full Stack Web & Mobile
-- Atualmente aprendendo Spring Boot com Java/Kotlin e desenvolvimento mobile com Flutter
-- Trabalhando no projeto: Comunicaetec
+- Atualmente focando em Java com Spring Boot
 - Atualmente atuando como Analista de Suporte e buscando oportunidades como desenvolvedor.
 - Website: [Portfolio](https://gabrielaraujo.tech/)
 <br>
