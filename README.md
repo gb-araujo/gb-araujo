@@ -6,7 +6,7 @@
 - Desenvolvedor Full Stack Web & Mobile
 - Atualmente focando em Java com Spring Boot
 - Atualmente atuando como Analista de Suporte e buscando oportunidades como desenvolvedor.
-- Website: [Portfolio](https://gabrielaraujo.vercel.app/)
+- [Website: [Portfolio]([https://gabrielaraujo.vercel.app](https://www.gabrielaraujo.xyz/)/)](https://www.gabrielaraujo.xyz/)
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-gb--araujos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb-araujos/)](https://www.linkedin.com/in/gb-araujos)
