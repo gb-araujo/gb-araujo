@@ -5,7 +5,6 @@
 - Sou o Gabriel, tenho 22 anos e resido em São Paulo
 - Desenvolvedor Full Stack Web & Mobile
 - Atualmente focando em Java com Spring Boot
-- Atualmente atuando como Analista de Suporte e buscando oportunidades como desenvolvedor.
 - [Website: [Portfolio]([https://gabrielaraujo.vercel.app](https://www.gabrielaraujo.xyz/)/)](https://www.gabrielaraujo.xyz/)
 <br>
 
