@@ -27,9 +27,6 @@ Aqui estão alguns dos meus projetos:
 
 Se você está interessado em gerar conexão, tem alguma dúvida ou proposta, entre em contato comigo por meio dos links abaixo:
 
-- [LinkedIn](https://www.linkedin.com/in/gb-araujos/)
-- [Email](mailto:gabrielaraujo16@yahoo.com)
-
 [![Linkedin](https://img.shields.io/badge/-gb--araujos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb-araujos/)](https://www.linkedin.com/in/gb-araujos)
 [![Email](https://img.shields.io/badge/-gabrielaraujo16@yahoo.com-006bed?style=flat-square&logo=email&logoColor=white&link=mailto:gabrielaraujo16@yahoo.com)](mailto:gabrielaraujo16@yahoo.com)
 [![GitHub](https://img.shields.io/github/followers/gb-araujo?label=follow&style=social)](https://github.com/gb-araujo)
