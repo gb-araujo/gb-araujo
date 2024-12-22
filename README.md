@@ -1,8 +1,11 @@
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <h1><b>Seja bem-vindo ao meu perfil!</b></h1>
     <p>Em busca de oportunidades para contribuir como desenvolvedor enquanto aprimoro minhas habilidades. 🚀</p>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gb-araujo&label=Visitantes&color=0e75b6&style=flat" alt="gb-araujo" /> </p>
+
 
 ## 👨‍💻 Sobre mim
 
@@ -30,7 +33,6 @@ Se você está interessado em gerar conexão, tem alguma dúvida ou proposta, en
 [![Linkedin](https://img.shields.io/badge/-gb--araujos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb-araujos/)](https://www.linkedin.com/in/gb-araujos)
 [![Email](https://img.shields.io/badge/-gabrielaraujo16@yahoo.com-006bed?style=flat-square&logo=email&logoColor=white&link=mailto:gabrielaraujo16@yahoo.com)](mailto:gabrielaraujo16@yahoo.com)
 [![GitHub](https://img.shields.io/github/followers/gb-araujo?label=follow&style=social)](https://github.com/gb-araujo)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb-araujo&label=Visitantes&color=0e75b6&style=flat" alt="gb-araujo" /> </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
