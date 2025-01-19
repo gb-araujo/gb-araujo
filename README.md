@@ -2,7 +2,6 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <h1><b>Seja bem-vindo ao meu perfil!</b></h1>
-    <p>Em busca de oportunidades para contribuir como desenvolvedor enquanto aprimoro minhas habilidades. 🚀</p>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gb-araujo&label=Visitantes&color=0e75b6&style=flat" alt="gb-araujo" /> </p>
 
