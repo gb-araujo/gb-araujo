@@ -11,7 +11,6 @@
 
 - Sou o Gabriel, tenho 22 anos e resido em São Paulo.
 - Estudante de Engenharia de Software na UNINTER e atualmente como Analista de Suporte na SQG Soluções.
-- Desenvolvedor focado em desenvolvimento Full-Stack com React e Java + Spring, além de sempre estar explorando novas tecnologias.
 - Buscando desafios para expandir minhas habilidades e contribuir para soluções inovadoras.
 
 
