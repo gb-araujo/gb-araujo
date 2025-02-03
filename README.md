@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos:
 
 - [**Comunicaetec**](https://github.com/gb-araujo/comunicaetec) – Projeto voltado para criar uma rede de comunicação escolar desenvolvido na ETEC Albert Einstein.
 - [**Entrennection**](https://github.com/gb-araujo/entrennection) – Uma plataforma voltada para ajudar empreendedores a gerar conexões e alcançarem o sucesso em seus negócios.
-- [**Projeto Freelancer**](https://github.com/gb-araujo/controle-aluguel-carrinhos) – Um sistema de gestão simples para um evento de aluguel de carrinhos.
+- [**Projeto Freelancer**](https://github.com/gb-araujo/carts-rental-management) – Um sistema de gestão simples para um evento de aluguel de carrinhos.
 - [**Visite meus repostórios**](https://github.com/gb-araujo?tab=repositories) 
 
 
