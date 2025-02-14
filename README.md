@@ -49,7 +49,7 @@ Se você está interessado em gerar conexão, tem alguma dúvida ou proposta, en
 
 <div align="start">
 
-### Front-End
+### Desenvolvimento de Software
 <table>
   <tr>
     <td align="center" width="100">
@@ -66,8 +66,6 @@ Se você está interessado em gerar conexão, tem alguma dúvida ou proposta, en
     </td>
   </tr>
 </table>
-
-### Backend e Databases
 <table>
   <tr>
     <td align="center" width="100">
@@ -88,38 +86,26 @@ Se você está interessado em gerar conexão, tem alguma dúvida ou proposta, en
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br>Docker
-    </td>
   </tr>
 </table>
 
-### Mobile
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /><br>Kotlin
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /><br>Flutter
-    </td>
-  </tr>
-</table>
-
-### Tools - Ferramentas
+### Ferramentas
 <table>
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>Git
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /><br>Figma
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br>Postman
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" /><br>Photoshop
+      <img src="https://skillicons.dev/icons?i=selenium" alt="Postman" /><br>Selenium
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jest" alt="Postman" /><br>Jest
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Postman" /><br>Docker
     </td>
   </tr>
 </table>
