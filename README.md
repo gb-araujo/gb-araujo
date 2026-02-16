@@ -1,40 +1,68 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-    <h1><b>Seja bem-vindo ao meu perfil!</b></h1>
+    <h1><b>Gabriel Araujo</b></h1>
+    <p>Analista de Suporte Técnico | Desenvolvedor em formação</p>
     <img src="https://komarev.com/ghpvc/?username=gb-araujo&label=Visitantes&color=0e75b6&style=flat" alt="gb-araujo" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
-- Meu nome é **Gabriel Araujo**, tenho 23 anos e sou de São Paulo.
-- Atualmente curso **Engenharia da Computação** na UNIVESP
-- Atuo como **Analista de Suporte Técnico**
-- Experiência prática em **desenvolvimento web e mobile**, atuando no **front-end** e **back-end** com Java, Spring Boot, Kotlin, React e bancos de dados SQL/NoSQL.
-- Busco constantemente **novos desafios** para ampliar meus conhecimentos e contribuir para projetos com impacto real.
+
+Sou **Analista de Suporte Técnico**, atuando diretamente com sistemas em produção, integrações, banco de dados e resolução de problemas reais.  
+Atualmente estou em **transição para Desenvolvimento de Software**, com foco em **backend** e **mobile**.
+
+Curso **Engenharia da Computação na UNIVESP** e utilizo meus projetos como forma de consolidar fundamentos, aplicar boas práticas e evoluir tecnicamente de forma consistente.
+
+Meu perfil é orientado a:
+- entendimento profundo de problemas
+- base técnica sólida
+- aprendizado contínuo com aplicação prática
 
 ---
 
-## 🚀 Projetos em Destaque
-> Alguns projetos que mostram minha atuação prática como desenvolvedor.
+## 🧠 Áreas de foco técnico
 
-- [**Comunicaetec**](https://github.com/gb-araujo/comunicaetec) – Rede de comunicação escolar desenvolvida na ETEC Albert Einstein.
-- [**Entrennection**](https://github.com/gb-araujo/entrennection) – Plataforma para conectar empreendedores e gerar oportunidades de negócios.
-- [**Carts Rental Management**](https://github.com/gb-araujo/carts-rental-management) – Sistema de gestão para eventos de aluguel de karts.
+**Atuação principal**
+- Backend com **Java** e **Spring Boot**
+- Desenvolvimento **Android nativo** com **Kotlin**
 
-🔍 Veja mais no meu [repositório completo](https://github.com/gb-araujo?tab=repositories).
-
----
-
-## 📊 Estatísticas GitHub
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gb-araujo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="180px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-araujo&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" height="180px"/>
-</div>
+**Experiência complementar**
+- Frontend com **React**
+- Bancos de dados **SQL e NoSQL**
+- Integração entre sistemas e APIs
+- Conceitos de testes e qualidade de software
 
 ---
 
-## 📞 Vamos conversar!
-[![Linkedin](https://img.shields.io/badge/-gb--araujos-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gb-araujos/)  
+## 🚀 Projetos em destaque
+
+Projetos que representam minha evolução prática, indo além de exercícios isolados e simulando cenários reais de uso.
+
+- **[Comunicaetec](https://github.com/gb-araujo/comunicaetec)**  
+  Rede de comunicação escolar desenvolvida na ETEC Albert Einstein, com foco em organização, interação entre usuários e persistência de dados.
+
+- **[Entrennection](https://github.com/gb-araujo/entrennection)**  
+  Plataforma voltada à conexão entre microempreendedores, explorando backend, frontend e modelagem de dados.
+
+- **[Carts Rental Management](https://github.com/gb-araujo/carts-rental-management)**  
+  Sistema de gestão para eventos de aluguel de karts, focado em regras de negócio e controle operacional.
+
+🔎 Outros projetos podem ser encontrados na aba de repositórios do perfil.
+
+
+## 📚 Repositório de estudos
+
+Mantenho um repositório público dedicado exclusivamente à consolidação de fundamentos, teoria e prática em tecnologia:
+
+👉 **[fundamentos-tecnologia](https://github.com/gb-araujo/fundamentos-tecnologia)**
+
+Esse repositório **não é portfólio**, mas uma base organizada de estudos em desenvolvimento, qualidade de software e conceitos computacionais.
+
+---
+
+## 📞 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-gb--araujos-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gb-araujos/)  
 [![Email](https://img.shields.io/badge/-gabrielaraujo16@yahoo.com-006bed?style=flat-square&logo=email&logoColor=white)](mailto:gabrielaraujo16@yahoo.com)  
 [![GitHub](https://img.shields.io/github/followers/gb-araujo?label=follow&style=social)](https://github.com/gb-araujo)
