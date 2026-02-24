@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
     <h1><b>Gabriel Araujo</b></h1>
-    <p>Analista de Suporte Técnico | Desenvolvedor em formação</p>
+    <p>Desenvolvedor Full-Stack</p>
     <img src="https://komarev.com/ghpvc/?username=gb-araujo&label=Visitantes&color=0e75b6&style=flat" alt="gb-araujo" />
 </div>
 
