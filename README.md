@@ -24,7 +24,6 @@ Desenvolvedor focado em **backend e mobile**, com experiência prática em siste
 Estudante de **Engenharia da Computação (UNIVESP)**.
 Utilizo meus projetos como forma de aprofundar fundamentos, aplicar boas práticas e evoluir tecnicamente.
 
-- 🚀 Aberto a oportunidades de **estágio** em backend ou mobile
 - 🏠 Baseado em **São Paulo, Brasil**
 - 🎯 Foco em **arquitetura de software**, **integração de sistemas** e **aplicações mobile**
 
