@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Gabriel Araujo</h1>
   <p><strong>Desenvolvedor de Software Júnior | QA</strong></p>
-  <p>Gosto de transformar problemas reais em sistemas simples, úteis e bem cuidados.</p>
 
   <a href="https://gabrielaraujo.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
@@ -28,7 +27,7 @@ Hoje trabalho principalmente com **C#**, **PHP**, **Kotlin Android** e **SQL**, 
 - São Paulo, Brasil
 - Foco em desenvolvimento, testes manuais, análise de dados e automações
 - Cursando Engenharia da Computação
-- Inglês profissional
+- Inglês Técnico
 
 ## Tecnologias
 
